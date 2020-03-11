@@ -7,9 +7,9 @@ $ip = "10.2.2.15"
 $prefix = 24
 ```
 specify appropriate IP address and subnet prefix
-<br/>
+<p>&nbsp;</p>
 Run **Windows Command Prompt** as Administrator
-<br/>
+<p>&nbsp;</p>
 Use `powershell.exe` to run the script. See example below:
 ```
 powershell.exe -NoLogo -NonInteractive -ExecutionPolicy Unrestricted -File "C:\Users\John.Smith\isolated_network.ps1"
